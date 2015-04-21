@@ -1,0 +1,2 @@
+I am just playing around with the Twitter API and Tweepy. 
+Right now I am working on adding MySQL Functions
