@@ -6,7 +6,8 @@ ehthumbs.db
 Desktop.ini
 
 #Twitter API Keys
-keys.txt
+keys.py
+keys.pyc
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
